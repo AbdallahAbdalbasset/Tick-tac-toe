@@ -26,7 +26,7 @@ Ensure that you have the following installed:
 - **Node.js** (v14 or higher)
 - **npm** (comes with Node.js)
 
-  ### Steps
+### Steps
   
 1. **Clone the repository**:
    ```bash
